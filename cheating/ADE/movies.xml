@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<movies>
+
+   <movie id="m001">
+   
+      <title>The Shawshank Redemption</title>
+      <director>Frank Darabont</director>
+      <genre>Drama</genre>
+      <rating>9.3</rating>
+      <release_date>1994-10-14</release_date>
+      <description>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</description>
+
+   </movie>
+   <movie id="m002">
+      <title>The Godfather</title>
+      <director>Francis Ford Coppola</director>
+      <genre>Crime</genre>
+      <rating>9.2</rating>
+      <release_date>1972-03-24</release_date>
+      <description>The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</description>
+
+   </movie>
+   <movie id="m003">
+      <title>The Dark Knight</title>
+      <director>Christopher Nolan</director>
+      <genre>Action</genre>
+      <rating>9.0</rating>
+      <release_date>2008-07-18</release_date>
+      <description>When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.</description>
+   </movie>
+
+   <movie id="m004">
+      <title>Pulp Fiction</title>
+      <director>Quentin Tarantino</director>
+      <genre>Crime</genre>
+      <rating>8.9</rating>
+      <release_date>1994-10-14</release_date>
+      <description>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</description>
+   </movie>
+   
+   <movie id="m005">
+      <title>The Lord of the Rings: The Return of the King</title>
+      <director>Peter Jackson</director>
+      <genre>Fantasy</genre>
+      <rating>8.9</rating>
+      <release_date>2003-12-17</release_date>
+      <description>Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</description>
+   </movie>
+
+</movies>
